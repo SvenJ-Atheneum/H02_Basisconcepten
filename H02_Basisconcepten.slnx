@@ -1,0 +1,16 @@
+<Solution>
+  <Folder Name="/Basis/">
+    <Project Path="B2.1_VariabelenDatatypes/B2_1_VariabelenDatatypes.csproj" />
+    <Project Path="B2.2_Rekenmachine/B2_2_Rekenmachine.csproj" />
+    <Project Path="B2.3_Commentaar/B2_3_Commentaar.csproj" />
+  </Folder>
+  <Folder Name="/Essential/">
+    <Project Path="E2.1_BMICalculator/E2_1_BMICalculator.csproj" />
+    <Project Path="E2.2_Temperatuurconverter/E2_2_Temperatuurconverter.csproj" />
+    <Project Path="E2.3_DatatypesDetective/E2_3_DatatypesDetective.csproj" />
+  </Folder>
+  <Folder Name="/Pro/">
+    <Project Path="P2.1_GewichtPlaneten/P2_1_GewichtPlaneten.csproj" />
+    <Project Path="P2.2_MeerProjecten/P2_2_MeerProjecten.csproj" />
+  </Folder>
+</Solution>
